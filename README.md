@@ -10,7 +10,7 @@ We based on these and [LinkSpriteIO](www.linksprite.io) make it can be controled
 
 ### 1 Hardware connection
 
-| LinkNode D1 | LED Stri  |
+| LinkNode D1 | LED Strip  |
 | ----------- | ---------:|
 | 5V          | +5V       |
 | GPIO2/D9    | D0        |
