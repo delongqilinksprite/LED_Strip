@@ -7,7 +7,7 @@ String apikey = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx";
 
 LinkSpriteIO linksprite(deviceID,apikey);
 
-static uint16_t PixelCount = 30; // this example assumes 4 pixels, making it smaller will cause a failure
+static uint16_t PixelCount = 240; // this example assumes 4 pixels, making it smaller will cause a failure
 const uint8_t PixelPin = 2;  // make sure to set this to the correct pin, ignored for Esp8266
 const uint8_t AnimationChannels = 1;
 
